@@ -1,0 +1,61 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+Assets/StreamingAssets/
+Packages/
+UserSettings/
+*.csproj
+*.sln
+*.unityproj
+*.booproj
+
+# =================== #
+# Visual Studio Files #
+# =================== #
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.cache
+*.csproj
+*.vs
+[Bb]in/
+[Oo]bj/
+
+# ======================== #
+# Mac Specific Files       #
+# ======================== #
+.DS_Store
+._*
+
+# ================== #
+# Other Files        #
+# ================== #
+*.orig
+*.log
+*.meta
+*.asset
+
+# ================= #
+# Unity Collab Cache #
+# ================= #
+/Assets/collab-cache/
+
+# =================== #
+# Unity Plastic Cache  #
+# =================== #
+[Ll]ibrary/PackageCache/com.unity.collab-proxy@*
+
+# ============= #
+# Editor Specific #
+# ============= #
+Assets/Editor/Data/
